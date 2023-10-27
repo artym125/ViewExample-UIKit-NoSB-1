@@ -4,8 +4,8 @@ This is a view written in the **Swift** programming language. In this example, I
 
 
 # Screenshot
+<img src="https://github.com/artym125/ViewExample-UIKit-NoSB-1/blob/main/ViewExample-UIKit(NoSB)%231/Assets.xcassets/screenshot1.imageset/simulator_screenshot_3A93E0BA-536C-4AFF-8DF0-53EEC00B71A1.png" width="300" height="650">
 
-![ViewExample-UIKit-NoSB-1](https://github.com/artym125/ViewExample-UIKit-NoSB-1/blob/main/ViewExample-UIKit(NoSB)%231/Assets.xcassets/screenshot1.imageset/simulator_screenshot_3A93E0BA-536C-4AFF-8DF0-53EEC00B71A1.png)
 
 
 
