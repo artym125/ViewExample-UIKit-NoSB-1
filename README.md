@@ -5,7 +5,7 @@ This is a view written in the **Swift** programming language. In this example, I
 
 # Screenshot
 
-![ViewExample-UIKit(NoSB)#1](/Assets.xcassets/screenshot1.imageset/simulator_screenshot_3A93E0BA-536C-4AFF-8DF0-53EEC00B71A1.png)
+![ViewExample-UIKit-NoSB-1](ViewExample-UIKit(NoSB)#1/Assets.xcassets/screenshot1.imageset/simulator_screenshot_3A93E0BA-536C-4AFF-8DF0-53EEC00B71A1.png)
 
 
 
